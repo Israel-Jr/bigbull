@@ -1,0 +1,11 @@
+.center {
+    display: block;
+    margin: 0 auto;
+}
+img.center {
+    margin-top: 10px;
+}
+
+body {
+    background-color: #7600a9;
+}
